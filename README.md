@@ -45,8 +45,6 @@ me.say_hi()
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
-
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/shloakr/Medict-Health-Analyzer">
@@ -59,10 +57,6 @@ me.say_hi()
 
 ## 👨👩 Social 🔝
 
-<img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-ID: The-bored-guy10#2510
-
-
 <a href="http://linkedin.com/in/shloak-rathod-0bb7531b0">
   <imgsrc="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -72,15 +66,8 @@ ID: The-bored-guy10#2510
 <a href="mailto:shloakrathod1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<!--  
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shloakr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=vaccine-bot)
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=Medict-Health-Analyzer)
- -->
+<img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+Discord ID: The-bored-guy10#2510
 
 
 <!--
