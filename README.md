@@ -1,10 +1,14 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 
  # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shloakr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--  
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shloakr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
