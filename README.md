@@ -12,7 +12,7 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/shloakr/Medict-Health-Analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=Medict-Health-Analyzer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Medict-Health-Analyzer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=Medict-Health-Analyzer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Medict-Health-Analyzer" />
 </a>
 
 <a href="https://github.com/shloakr/vaccine-bot">
