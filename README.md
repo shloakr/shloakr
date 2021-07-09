@@ -7,7 +7,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=Medict-Health-Analyzer&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=Medict-Health-Analyzer](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=vaccine-bot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
