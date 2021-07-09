@@ -4,9 +4,15 @@
 
  -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shloakr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Shloaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=shloakr)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[website]: https://ahsankhan.me
+[github]: https://github.com/ahsankhan26
+[linkedin]: https://www.linkedin.com/in/shloak-rathod-0bb7531b0
+[hackerrank]: https://hackerrank.com/ahsankhan26
+[instagram]: https://instagram.com/ahsankhan26
+[stackoverflow]: https://stackoverflow.com/users/13870209/ahsan-khan
+
 
 <!--
 **shloakr/shloakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
