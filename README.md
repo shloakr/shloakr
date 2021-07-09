@@ -4,14 +4,15 @@
 
  -->
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shloakr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
-
+ 
+[banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
 [website]: https://ahsankhan.me
 [github]: https://github.com/ahsankhan26
-[linkedin]: https://www.linkedin.com/in/shloak-rathod-0bb7531b0
+[linkedin]: https://linkedin.com/in/ahsankhan26
 [hackerrank]: https://hackerrank.com/ahsankhan26
 [instagram]: https://instagram.com/ahsankhan26
 [stackoverflow]: https://stackoverflow.com/users/13870209/ahsan-khan
+
 
 
 <!--
