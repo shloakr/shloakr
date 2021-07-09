@@ -7,11 +7,17 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=Medict-Health-Analyzer](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=vaccine-bot&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+## 🗂️ Highlight Projects
 
+<a href="https://github.com/shloakr/Medict-Health-Analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=Medict-Health-Analyzer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Medict-Health-Analyzer" />
+</a>
+
+<a href="https://github.com/shloakr/vaccine-bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=vaccine-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="vaccine-bot" />
+</a>
 <!--  
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shloakr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
