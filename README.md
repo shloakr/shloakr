@@ -1,6 +1,6 @@
 
  # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
- <br/>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
@@ -27,9 +27,10 @@ class ComputerEnthusiast:
 me = ComputerEnthusiast()
 me.say_hi()
 ```
- <br/>
+
 ## 🔧 Technologies & Tools
- <br/>
+
+
 ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,9 +44,10 @@ me.say_hi()
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
- <br/>
+
 ## 🗂️ Highlight Projects
- <br/>
+
+
 <a href="https://github.com/shloakr/Medict-Health-Analyzer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=Medict-Health-Analyzer&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Medict-Health-Analyzer" />
 </a>
@@ -53,9 +55,11 @@ me.say_hi()
 <a href="https://github.com/shloakr/vaccine-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=vaccine-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="vaccine-bot" />
 </a>
- <br/>
+
+
 ## 👨👩 Social 🔝
- <br/>
+
+
 <a href="http://linkedin.com/in/shloak-rathod-0bb7531b0">
   <imgsrc="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
