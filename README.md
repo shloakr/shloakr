@@ -21,7 +21,7 @@ class ComputerEnthusiast:
         self.language_spoken = ["hr_HR", "en_US"]
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting. \nFeel free to contact me!")
+        print("Thanks for dropping by, hope you find some of my work interesting. Feel free to contact me!")
 
 
 me = ComputerEnthusiast()
