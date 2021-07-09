@@ -1,12 +1,9 @@
-### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
- -->
- 
  # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shloakr&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shloakr&theme=dark" />
 
 
 <!--  
