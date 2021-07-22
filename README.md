@@ -43,6 +43,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 ## 🗂️ Highlight Projects
