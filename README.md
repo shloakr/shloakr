@@ -56,7 +56,7 @@ me.say_hi()
 <a href="https://github.com/shloakr/vaccine-bot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shloakr&repo=vaccine-bot&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="vaccine-bot" />
 </a> -->
-
+<!-- 
 
 ## 👨👩 Social 🔝
 
@@ -74,7 +74,7 @@ me.say_hi()
  <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 Discord ID: The-bored-guy10#2510
-
+ -->
 
 <!--
 **shloakr/shloakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
