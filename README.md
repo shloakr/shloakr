@@ -5,7 +5,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
  
-[![Shloak's GitHub stats](https://github-readme-stats.vercel.app/api?username=shloakr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ```python
